@@ -5,9 +5,26 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color:lightcoral;
+  text-align: center;
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+.App-header{
+  color: green;
+  font-size: large;
+  text-align: center;
+}
+.day1{
+  text-align: center;
+  color:greenyellow;
+
+}
+.btn{
+padding: 10px 20px;
+margin: 10px;
+background-color: aqua;
 }
